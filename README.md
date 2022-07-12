@@ -1,4 +1,4 @@
-I'm Araneae, a High School student learning C# and Game Design.
+I'm Araneae (alias), a High School student learning C# and Game Design.
 
 My current project is a card game called Hammer, which I made IRL with a friend for Scouts. I'm converting it to a digital game!
 
